@@ -30,7 +30,7 @@ The Power BI dashboard includes:
 - **Summary:** Final key Statistics from EDA combined.
 - **Drill Through:** Overview of Investment Advisor and Bank fees.
 
-<img width="1084" height="608" alt="image" src="https://github.com/user-attachments/assets/fef80568-a443-4557-8262-d2e735497186" />
+
 
 
 ---
