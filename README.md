@@ -40,13 +40,13 @@ The Power BI dashboard includes:
 **Loan Analysis**
 
 
-![Loan_Analysis](Page2_Loan_Analysis.png)
+![Loan_Analysis](Page2_Loan_analysis.png)
 
 
 **Deposit Analysis**
 
 
-![Deposit_Analysis](Page3_Deposit_Analysis.png)
+![Deposit_Analysis](Page3_Deposit_analysis.png)
 
 
 **Summary**
